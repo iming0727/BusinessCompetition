@@ -1,3 +1,4 @@
+#基本架構介紹
 import sys
 import datetime
 
